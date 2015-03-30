@@ -1,3 +1,6 @@
+JMHoledView可以添加一片圆形，方型，圆角方型以及自定义视图的高亮区域 到视图当中。可以用于应用页面的某些强调说明，点击该区域支持delegate回调。
+
+
 # JMHoledView
 A view design to be filled with holes ...
 
